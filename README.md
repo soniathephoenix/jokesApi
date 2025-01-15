@@ -1,6 +1,6 @@
 # Chuck Norris Jokes API
 
-##To install dependencies
+## To install dependencies
 
-###Run npm i
+### Run npm i
 
