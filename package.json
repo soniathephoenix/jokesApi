@@ -1,0 +1,24 @@
+{
+  "name": "usadataapi",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/soniathephoenix/usaPopulationData#readme",
+  "bugs": {
+    "url": "https://github.com/soniathephoenix/usaPopulationData/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soniathephoenix/usaPopulationData.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "watchify ./script.js -o bundle.js"
+  },
+  "devDependencies": {
+    "watchify": "^4.0.0"
+  }
+}
